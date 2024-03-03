@@ -1,1 +1,1 @@
-We have created this Chatbot using Langchain, Pinecone as a vector database and ChatGPT. We have used PyAudio module for audio input and converted the audio to text using Transcriptions endpoint of OpenAI API.
+We have created this Chatbot using Langchain, Pinecone as a vector database and ChatGPT. We have used PyAudio module for audio input and converted the audio to text using Transcriptions endpoint of OpenAI API. Utilized custom knowledge base of synthesized data from ChatGPT.
